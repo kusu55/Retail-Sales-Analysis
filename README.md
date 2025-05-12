@@ -46,7 +46,7 @@ Key visualizations in the dashboard:
 - Discount vs. Profit analysis
 - Top 10 Customers by Revenue
 
-> 📸 **Sample Dashboard Screenshots available in `/visuals/dashboard_screenshots/`**
+> 📸 **Sample Dashboard Screenshots available in `/visuals/`**
 
 ---
 ## ⚙️ Workflow Summary
