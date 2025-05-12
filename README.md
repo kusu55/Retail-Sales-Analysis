@@ -14,7 +14,7 @@ The retail company is experiencing inconsistent profits across regions and produ
 - Shows the impact of discounts on profit margins
 - Helps prioritize strategies for product focus and customer retention
 
-**Goal:** Build a data pipeline and an interactive dashboard that empowers decision-makers with clear, visual insights derived from historical sales data.
+**Goal:** Build an interactive dashboard that empowers decision-makers with clear, visual insights derived from historical sales data.
 
 ---
 
